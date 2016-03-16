@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "ParseDemo": {
+      "applicationId": "LU5kWkxdD7xRAfA8fn1JlSzh44NqQGcif2uSh9np"
+    },
+    "_default": {
+      "link": "ParseDemo"
+    }
+  }
+}
